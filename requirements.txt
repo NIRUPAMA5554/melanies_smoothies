@@ -1,4 +1,3 @@
-streamlit[snowflake]
 # requirements.txt
 snowflake-snowpark-python
 streamlit
